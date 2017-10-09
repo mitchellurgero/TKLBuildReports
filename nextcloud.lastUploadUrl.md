@@ -1,1 +1,1 @@
-https://transfer.sh/HWoxQ/nextcloud.21.iso
+https://transfer.sh/12WOCy/nextcloud.22.iso
