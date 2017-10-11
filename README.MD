@@ -25,6 +25,6 @@ This appliance is a PHP script, technically built from source (although you don'
 
 Standard install of nextcloud. Nothing really fancy here for now (Planning to include mail client, document editor etc setup for you by default at some point.)
 
-
+---------
 
 All appliances listed here are built using [TurnKey Linux](http://turnkeylinux.org) with their [TKLDev Appliance](https://www.turnkeylinux.org/tkldev) as well as their [TKLCore Appliance](https://www.turnkeylinux.org/core).
